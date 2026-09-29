@@ -1,12 +1,3 @@
-# **Cálculo de Média**
-descrição do meu programa
-
-***
-
-# *Tecnologias Utilizadas*
-**Python:**
-
-```
 def calcular_media(nota1, nota2):
     return (nota1 + nota2) / 2
 
@@ -22,9 +13,3 @@ if media >= 7.0:
     print("Status: APROVADO!")
 else: 
     print("Status: REPROVADO.")
-```
-# *Como Instalar e Executar*
-
-# *Exemplo de Uso ou Demonstração*
-
-# ***Autor e Contato***
